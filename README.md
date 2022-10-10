@@ -30,13 +30,6 @@
 <br>
 <br>
 
-<h3>🏆 GitHub Profile Trophy</h3><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=dhyey510&margin-h=15&margin-w=15">
-</a>
-<br>
-<br>
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif/200w.webp" width="70" alt='css'>
