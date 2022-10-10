@@ -15,7 +15,7 @@
  
  📄 Know about my experiences <a href='https://drive.google.com/file/d/1BVOLPEFLXX-sQQXg30MY7GPFt8Yw1K9C/view?usp=sharing'>Resume</a>
 
- 🤣 fun fact: my hobby always change from year to year 😂🕺
+ 💛 Hobbies: Dancing, Reading And Coding 💛
  
  👀 Profile Viewers  <img src='https://profile-counter.glitch.me/dhyey510/count.svg' height='20' align='center'>
 
