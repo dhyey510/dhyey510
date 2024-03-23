@@ -1,7 +1,7 @@
 <h1 align='center'>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/>, I'm Dhyey Desai</h1>
 <div align="center">
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?color=%23F70F0F&size=23&width=650&lines=I'm+passionate+about+android+and+web+development">
+   <img src="https://readme-typing-svg.herokuapp.com?color=%232986cc&size=23&width=650&lines=I'm+passionate+about+android+and+web+development">
 </a>
 </div>
 <img width="50%" align="right" alt="Github" src="chill scene.gif" /> 
